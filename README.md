@@ -1,14 +1,17 @@
-# Ipei B. Goto
+<div align="center">
+<h1>Ipei B. Goto</h1>
 
 **Full-Stack Engineer · Data and AI · Metro Manila, Philippines**
 
-[Portfolio](PORTFOLIO_URL) / [LinkedIn](https://www.linkedin.com/in/ipei-goto-520263245/) / [Résumé](RESUME_URL) / [Email](mailto:ipeigotou@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ipei-goto-520263245/) / [Résumé](https://drive.google.com/file/d/1aR4Uw_io6XH6u1fDr-DW-Pqmadu5luT7/view?usp=drive_link) / [Email](mailto:ipeigotou@gmail.com)
 
-Full-stack engineer who is obsessed with analyzing data and presenting it beautifully. I am a **BS Information Technology student at Pamantasan ng Lungsod ng Pasig** (President's Lister, expected 2027), and I build production systems end to end: databases, ML pipelines, APIs, and the interfaces that make the numbers readable.
+Full-stack engineer who is obsessed with analyzing data and presenting it beautifully.  
+I am a **BS Information Technology student at Pamantasan ng Lungsod ng Pasig**  (President's Lister, expected 2027), and I build production systems end to end: databases, ML pipelines, APIs, and the interfaces that make the numbers readable.
 
 Currently learning **how to analyze data and present it beautifully**.
+</div>
 
-## Featured projects
+## Featured projects 
 
 ### Sheilz POS and IMS (Capstone)
 
