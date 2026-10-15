@@ -3,7 +3,7 @@
 
 **Full-Stack Engineer · Data and AI · Metro Manila, Philippines**
 
-[LinkedIn](https://www.linkedin.com/in/ipei-goto-520263245/) / [Résumé](https://drive.google.com/file/d/1aR4Uw_io6XH6u1fDr-DW-Pqmadu5luT7/view?usp=drive_link) / [Email](mailto:ipeigotou@gmail.com)
+[Portfolio](https://ipei-goto.pages.dev/)[LinkedIn](https://www.linkedin.com/in/ipei-goto-520263245/) / [Résumé](https://drive.google.com/file/d/1aR4Uw_io6XH6u1fDr-DW-Pqmadu5luT7/view?usp=drive_link) / [Email](mailto:ipeigotou@gmail.com)
 
 Full-stack engineer who is obsessed with analyzing data and presenting it beautifully.  
 I am a **BS Information Technology student at Pamantasan ng Lungsod ng Pasig**  (President's Lister, expected 2027), and I build production systems end to end: databases, ML pipelines, APIs, and the interfaces that make the numbers readable.
