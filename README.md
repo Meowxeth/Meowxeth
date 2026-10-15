@@ -60,7 +60,7 @@ An implementation of the Machine Educable Noughts and Crosses Engine (MENACE) ap
 
 ## Beyond the code
 
-I work part-time as a barista and I like coffee, which is why I enjoy building software for coffee shops.
+I work part-time as a barista and I like coffee.
 
 ---
 
